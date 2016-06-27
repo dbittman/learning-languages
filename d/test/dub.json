@@ -1,0 +1,13 @@
+{
+	"name": "test",
+	"authors": [
+		"Daniel Bittman"
+	],
+	"dependencies": {
+		"derelict-sdl2": "~>2.0.0",
+		"dbox": {"path": "dbox", "version": "~master"},
+	},
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, Daniel Bittman",
+	"license": "proprietary"
+}
